@@ -17,7 +17,7 @@ plyfile
 pygltflib
 
 # for gui
-dearpygui
+#dearpygui
 
 # for stable-diffusion
 huggingface_hub
@@ -29,9 +29,9 @@ transformers
 xatlas
 trimesh
 PyMCubes
-pymeshlab
+#pymeshlab
 
-rembg[gpu,cli]
+#rembg[gpu,cli]
 
 # gradio demo
 gradio
